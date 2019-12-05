@@ -1,7 +1,7 @@
 # Startup_Landing_Page
 Its just a Web page for a Startup.
 
-Made Using 
+Made Using -
 HTML 
 CSS
 bootstrap
